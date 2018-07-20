@@ -1,0 +1,2 @@
+# docs
+selfhosted documentation server
